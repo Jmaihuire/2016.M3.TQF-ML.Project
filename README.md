@@ -12,7 +12,7 @@ Boosting Alpha Factors in Chinese A Share Stock Market
 
 (3) Algorithm 3 : Revised Boosting 
 
- the detailed description of these Algorithms is in the [final report]()
+ the detailed description of these Algorithms is in the [final report](https://github.com/kevin583475378/2016.M3.TQF-ML.Project/blob/master/final%20report%20and%20proposal/Project_Report_Kaiwen%20Zhou.pdf)
  
 ## Data Source & data description：
 (1)	The basic data , i.e. stock day return , last price , high price, low price , volume etc. is downloaded from Wind database.
@@ -23,4 +23,4 @@ Use some filtering methods such as kernel or spline smoothing, wavelet or Kalman
 
 ## Links:
 [final report][link1]
-[link1]:
+[link1]:https://github.com/kevin583475378/2016.M3.TQF-ML.Project/blob/master/final%20report%20and%20proposal/Project_Report_Kaiwen%20Zhou.pdf
