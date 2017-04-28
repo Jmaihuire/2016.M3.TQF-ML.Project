@@ -22,6 +22,8 @@ Boosting Alpha Factors in Chinese A Share Stock Market
 Use some filtering methods such as kernel or spline smoothing, wavelet or Kalman filtering to reduce the noise.
 
 ## Links:
-final report:[link](https://github.com/kevin583475378/2016.M3.TQF-ML.Project/blob/master/final%20report%20and%20proposal/Project_Report_Kaiwen%20Zhou.pdf)
-proposal:[link](https://github.com/kevin583475378/2016.M3.TQF-ML.Project/blob/master/final%20report%20and%20proposal/Project_Report_Kaiwen%20Zhou.pdf)
-code (in python3):[link](https://github.com/kevin583475378/2016.M3.TQF-ML.Project/blob/master/final%20report%20and%20proposal/Project_Report_Kaiwen%20Zhou.pdf)
+final report:[link1](https://github.com/kevin583475378/2016.M3.TQF-ML.Project/blob/master/final%20report%20and%20proposal/Project_Report_Kaiwen%20Zhou.pdf)
+
+proposal:[link2](https://github.com/kevin583475378/2016.M3.TQF-ML.Project/blob/master/final%20report%20and%20proposal/Project_proposal_Kaiwen%20Zhou.pdf)
+
+code (in python3):[link3](https://github.com/kevin583475378/2016.M3.TQF-ML.Project/blob/master/sample%20data%20and%20code/Project_adaboost_code_Kaiwen%20Zhou.py)
